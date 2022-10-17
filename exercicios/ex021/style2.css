@@ -1,0 +1,50 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+header {
+    
+  text-align: center;
+  background-color: rgb(177, 131, 131);
+  color: rgb(121, 43, 43);
+  margin: 10px;
+  border: 10px double brown;
+  outline: double 10px black;
+}
+nav{
+ box-shadow: 4px 4px 1px black;
+}
+main{
+    text-align:justify;
+    background-color: rgb(177, 131, 131);
+    margin: 10px;
+    padding: 5px;
+    border: double 10px brown;
+    outline: double 10px black;
+}
+footer{
+    padding: 1px;
+    background-color: rgb(177, 131, 131);
+    text-align: center;
+    border: 10px double brown;
+    outline: double 10px black;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+h1{
+    text-align: center;
+}
+h2{text-indent: 15px;}
+
+article{
+    background-color: red;
+}
+ aside{
+    text-align: center;
+    background-color: orange;
+ }

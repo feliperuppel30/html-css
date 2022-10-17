@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: gray;
+    height: 100px;
+    width: 300px;
+    border: 10px solid darkgray;
+     padding: 50px;
+     margin: 20px auto 40px auto;
+     outline: double 5px brown;
+
+}
+
+a{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 300px;
+    border: 5px solid blue;
+    padding: 5px; 
+}
+
+a:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: underline;
+    border-color: blueviolet;
+    border-radius: 5px;
+}

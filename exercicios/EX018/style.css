@@ -1,0 +1,27 @@
+  @font-face {
+    font-family: 'diferente';
+    src: url('fonte2.otf') format('opentype'), url('fonte1.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: normal;
+    font-size: 3em;
+    font-family: 'diferente', Times, serif;
+}
+h2{
+ text-align: center;
+    font-family: 'diferente', 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'diferente';
+    font-size: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-align: center;
+}

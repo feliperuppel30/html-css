@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(55, 168, 185, 0.696);
+}
+h1#principal{
+    color: rgb(255, 0, 247);
+    background-color: rgb(113, 31, 190);
+    padding: 15px;
+}
+h1{
+    text-align: center;
+    background-color: rgba(216, 20, 20, 0.57);
+    color: rgb(122, 23, 23);
+    border-radius: 20px;
+
+}
+h2{
+    text-align: center;
+    border-radius: 15px;
+    padding: 4px;
+    color: rgb(61, 102, 138);
+    background-color: rgba(255, 255, 255, 0.395);
+}
+p{
+    text-indent: 15px;
+    font-size: 18px;
+}
+.oss{
+    background-color: navy
+}
